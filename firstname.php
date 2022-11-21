@@ -5,4 +5,12 @@ function myproject(){
 	
 	}
 myproject(); 
+
+
+function name($name){
+	echo "$name";
+	
+	}
+name("hardik");
+
 ?>
